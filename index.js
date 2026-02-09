@@ -1,6 +1,6 @@
 const fn = () => {
     const miString = "soy un alumno muy participativo"
-    let b = miString + " ¿luis miente?"
+    let b = miString + " : ¿luis miente?"
     console.log(b)
 }
  
